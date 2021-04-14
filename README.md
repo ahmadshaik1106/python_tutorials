@@ -16,3 +16,10 @@
     - range based for loop
     - enhanced for loop
     - enumerate function
+## list comprehensions
+
+## functions
+- four types of functions
+- default parameters
+- *args and **kwargs
+- lambda functions
